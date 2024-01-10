@@ -1,0 +1,68 @@
+.aboutschool {
+  background: url(../images/img1.jpeg);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 300px;
+}
+
+.breadcrumb {
+  background-color: tomato;
+  display: inline-block;
+}
+
+.item {
+  text-decoration: none;
+  padding: 10px;
+  margin: 7px 0 7px;
+  color: black;
+}
+
+.aboutus-content {
+  padding: 100px;
+  box-shadow: 0 3px 20px 0 rgb(103 15 255 / 10%),
+    0 3px 20px 0 rgb(103 15 255 / 10%);
+}
+
+.about {
+  background: url(../images/school3.jpg);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: auto;
+  border-radius: 2px solid black;
+}
+.containers {
+  width: 100%;
+  padding-right: 15px;
+  padding-left: 15px;
+  padding-top: 40px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.abouttext {
+  padding: 10px 0px 10px 50px;
+  text-align: justify;
+}
+
+.accordions {
+  padding: 10px;
+  color: red;
+  width: 200px;
+}
+
+.paccordions {
+  margin: 10px;
+  padding: 10px;
+  text-align: justify;
+}
+
+#home,
+#vision {
+  display: block;
+  text-align: center;
+  border: 1px solid black;
+  margin-left: 4px;
+  margin-top: auto;
+}

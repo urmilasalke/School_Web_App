@@ -1,0 +1,18 @@
+.primaryimg {
+  background: url(../images/p.jpg);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 400px;
+}
+
+.container {
+  margin-bottom: 30px;
+}
+
+.item {
+  text-decoration: none;
+  padding: 7px;
+  margin: 7px 0 7px;
+  color: black;
+}

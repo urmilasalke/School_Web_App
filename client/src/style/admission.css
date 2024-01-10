@@ -1,0 +1,18 @@
+.school {
+  background: url(../images/img1.jpeg);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 300px;
+}
+
+.h5 {
+  padding: 20px;
+}
+
+.item {
+  text-decoration: none;
+  padding: 7px;
+  margin: 7px 0 7px;
+  color: black;
+}

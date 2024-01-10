@@ -1,0 +1,24 @@
+.head {
+  background-color: blue;
+  border-radius: 5px;
+  padding-top: 3px;
+  padding-bottom: 3px;
+  margin-top: -40px;
+  box-shadow: 10px 12px 26px 5px rgba(124, 128, 237, 0.46);
+  -webkit-box-shadow: 10px 12px 26px 5px rgba(124, 128, 237, 0.46);
+  -moz-box-shadow: 10px 12px 26px 5px rgba(124, 128, 237, 0.46);
+}
+
+.effect-1 {
+  border: 0;
+  outline: none;
+  width: 100%;
+  padding: 7px 0;
+  border-bottom: 1px solid #ccc;
+}
+
+.btn1 {
+  background: blue;
+  color: white;
+  outline: none;
+}
